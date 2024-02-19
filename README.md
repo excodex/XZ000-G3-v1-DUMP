@@ -50,6 +50,7 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 ### Shell Root Credentials (/etc/passwd)
 - Username: admin
 - Password: `1234`
+
 Note: This is the default credentials for V2 as well.
 
 ```
